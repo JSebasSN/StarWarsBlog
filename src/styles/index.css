@@ -1,3 +1,33 @@
 /* 
     General Styles
 */
+.imgLogo{
+    max-width: 80px;
+}
+
+h2{
+    color: rgb(155, 1, 1);
+    font-weight: 700;
+    margin-top: 40px;
+}
+
+.rollCardsBox{
+    display: flex;
+    overflow-x: auto;
+}
+
+.rollCards{
+    display: flex;
+    margin-top: 20px;
+}
+
+.fav{
+    color: darkgoldenrod;
+    cursor: pointer;
+    margin-left: auto;
+    margin-right: 5%;
+}
+
+.btns{
+    display: flex;
+}
