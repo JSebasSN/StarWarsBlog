@@ -31,3 +31,51 @@ h2{
 .btns{
     display: flex;
 }
+
+.infoCharacter{
+    margin-top: 5%;
+}
+
+.card-header{
+    font-size: 50px;
+    font-weight: 600;
+}
+
+.textFooter{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+}
+
+.infoCh{
+    text-align: center;
+    color: rgba(156, 0, 0, 0.863);
+    font-size: 20px;
+    margin: 0px 20px 0px 20px;
+}
+
+.cardBody{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.imgBody{
+    margin: 50px 50px 50px ;
+    border-radius: 15px;
+}
+
+.items{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-right: 10px;
+}
+
+.trash{
+    cursor: pointer;
+}
+
+.trash:hover{
+    color:brown;
+}
